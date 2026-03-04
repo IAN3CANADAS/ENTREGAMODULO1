@@ -4,3 +4,7 @@
 - Ian Cañadas <https://github.com/IAN3CANADAS/MODULO1>
 - Joaquin Bresci <>
 - Luca Salvo <>
+-
+
+
+Profesor Palma <https://github.com/ricardorpalma/TyHM_2026>
