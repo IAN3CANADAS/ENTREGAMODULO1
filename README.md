@@ -1,10 +1,8 @@
 # ENTREGAMODULO1
-"Grupo Pipu's"
+**Grupo Pipu's**
 - Mateo Isgro <https://github.com/MATEO9ISGRO/Modulo1)>
 - Ian Cañadas <https://github.com/IAN3CANADAS/MODULO1>
 - Joaquin Bresci <>
 - Luca Salvo <>
 -
 
-
-Profesor Palma <https://github.com/ricardorpalma/TyHM_2026>
