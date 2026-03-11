@@ -1,8 +1,10 @@
 # ENTREGAMODULO1
 **Grupo Pipu's**
-<center>
- <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1e255d21-d2c8-47a6-911a-2d7302ff92ba" />
-</center>
+
+
+<p align="center">
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1e255d21-d2c8-47a6-911a-2d7302ff92ba" />
+</p>
 
 - Mateo Isgro <https://github.com/MATEO9ISGRO/Modulo1> 2615522919
 - Ian Cañadas <https://github.com/IAN3CANADAS/MODULO1> 261206390
