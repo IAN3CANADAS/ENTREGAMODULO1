@@ -16,7 +16,7 @@
 | Joaquin | Bresci | joaquibresci@gmail.com | 2615033047 | <https://github.com/joacobre-jpg/Modulo_1_TyHMI>|
 | Bautista  |Zanetti|zanettibauti@gmail.com|2615085226| <https://github.com/zanettibauti-hub/_-modulo_1>|
 |Luca|Salvo|lucasalvo@gmail.com|2615193142| <https://github.com//lucaferrosalvo-star/_-modulo_1>|
-|Ian|ianCañadas|iandcanadas@gmail.com|261206390|<https://github.com/IAN3CANADAS/_-modulo_1>|
+|Ian|Cañadas|iandcanadas@gmail.com|261206390|<https://github.com/IAN3CANADAS/_-modulo_1>|
 |Mateo |Isgro|mateoisgro@gmail.com|2615522919| <https://github.com/MATEO9ISGRO/_-modulo_1>|
 |Nicolas|La Rocca|nicotox3@hotmail.com|2613629131| <https://github.com/nicotox3/nico_larocca>|
 
