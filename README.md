@@ -12,6 +12,6 @@
 | Nombre | Apellido | Correo | Whatsapp | Github |
 |:----------|:----------|:----------|:----------|:------------|
 | Joaquin | Bresci | joaquibresci@gmail.com | 2615033047 | <https://github.com/majoromero30/Modulo_1_TyHMI>|
-|Lucia  |Dominguez|luciacostanza95@gmail.com|2616685068| <https://github.com/luciadominguez1/_-modulo_1>|
-|Julieta|Valle|julietavalle04@gmail.com|2617773931| <https://github.com/JuliValle1/_-modulo_1>|
-|Milagros|Farina|milifarina05@gmail.com|2634521997|<https://github.com/Mili5555/_-modulo_1>|
+| Bautista  |Zanetti|zanettibauti@gmail.com|2615085226| <https://github.com/luciadominguez1/_-modulo_1>|
+|Luca|Salvo|lucasalvo@gmail.com|2615193142| <https://github.com/JuliValle1/_-modulo_1>|
+|Ian|Cañadas|@gmail.com|2634521997|<https://github.com/Mili5555/_-modulo_1>|
