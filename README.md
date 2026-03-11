@@ -1,6 +1,6 @@
 # ENTREGAMODULO1
 **Grupo Pipu's**
-</center>
+<center>
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1e255d21-d2c8-47a6-911a-2d7302ff92ba" />
 </center>
 
