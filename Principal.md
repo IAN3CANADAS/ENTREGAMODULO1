@@ -24,3 +24,4 @@
 |Mateo |Isgro|mateoisgro@gmail.com|2615522919| <https://github.com/MATEO9ISGRO/_-modulo_1>|
 |Nicolas|La Rocca|nico.larocca2026@gmail.com|2613629131| <https://github.com/nicotox3/nico_larocca>|
 
+$$e^{i\pi} + 1 = 0$$
