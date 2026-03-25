@@ -1,6 +1,9 @@
 | '''**11 DE MARZO** CLASE 2 |
 | :--- |
 
+**Resultado:**
+```text
+
 # ENTREGA MODULO 1
 **Grupo Pipu's**
 
