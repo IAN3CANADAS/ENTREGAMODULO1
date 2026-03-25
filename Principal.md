@@ -67,7 +67,7 @@ APLICAR IMAGEN
 
 1) Curriculum Mateo Isgro:
 <p align="center">
-  <img width="400" height="500" alt="image" src="CurriculumMateo.jpg" />
+  <img width="500" height="600" alt="image" src="CurriculumMateo.jpg" />
 </p>
 
 2) Curriculum Ian Cañadas:
