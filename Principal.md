@@ -64,6 +64,9 @@ APLICAR IMAGEN
 ➡️  **PARTE 2**
 
 -CV
+<p align="center">
+  <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/1e255d21-d2c8-47a6-911a-2d7302ff92ba" />
+</p>
 
 -USAR PLATILLA Simple Hipster CV
 
