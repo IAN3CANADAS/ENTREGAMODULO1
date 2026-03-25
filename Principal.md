@@ -69,11 +69,18 @@ APLICAR IMAGEN
 <p align="center">
   <img width="400" height="500" alt="image" src="CurriculumMateo.jpg" />
 </p>
+
 2) Curriculum Ian Cañadas:
+
 3) Curriculum Bautista Zanetti:
-4)
-5)
+
+4) 
+
+5) 
+
 6)
+
+7)
 
 
 -USAR PLATILLA Simple Hipster CV
