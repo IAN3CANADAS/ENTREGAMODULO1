@@ -150,5 +150,5 @@ CITAR
 BIBTEX Y COPIAR 
 <img width="557" height="483" alt="image" src="https://github.com/user-attachments/assets/91a5cb37-cd93-4032-bfaf-6fc2b55edefb" />
 
-AGREGAR 5 REFERENCIAS DE HTML,GITHUB,LATEX,COLLAB
+AGREGAR 5 REFERENCIAS DE HTML,GITHUB,LATEX,COLLAB Y MARKDOWN
 
