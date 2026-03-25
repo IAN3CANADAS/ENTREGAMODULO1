@@ -76,8 +76,10 @@ APLICAR IMAGEN
 </p>
 3) Curriculum Bautista Zanetti:
 
-4) 
-
+4) Curriculum Joaquin Bresci:
+<p align="center">
+  <img width="500" height="600" alt="image" src="Curriculumjoaquin.png" />
+</p>
 5) 
 
 6)
