@@ -142,6 +142,13 @@ pegar un codigo htlm en una parte del overleaf  con distintas partes del de por 
   <p>Hola mundo en HTML.</p>
 </body>
 
+REFERENCIAS BIBLIOGRAFICAS
+bibliografia.bib
+GOGOEL ACADEMICO
+BUSCAR UN LIBRO
+CITAR
+BIBTEX Y COPIAR 
+<img width="557" height="483" alt="image" src="https://github.com/user-attachments/assets/91a5cb37-cd93-4032-bfaf-6fc2b55edefb" />
 
 
 
