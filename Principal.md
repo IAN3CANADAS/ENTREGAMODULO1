@@ -1,4 +1,5 @@
-**11 DE MARZO** CLASE 2
+| **11 DE MARZO** CLASE 2 |
+| :--- |
 
 # ENTREGA MODULO 1
 **Grupo Pipu's**
