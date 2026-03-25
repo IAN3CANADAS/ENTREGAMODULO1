@@ -80,7 +80,7 @@ APLICAR IMAGEN
 <p align="center">
   <img width="500" height="600" alt="image" src="Curriculumjoaquin.png" />
 </p>
-5) 
+5) Curriculum Nicolás La Rocca:
 
 6)
 
@@ -94,6 +94,53 @@ APLICAR IMAGEN
 | **25 de Marzo** CLASE 4|
 | :--- |
 
+➡️  **PARTE 2**
+
+-CV
+
+-USAR PLATILLA Simple Hipster CV
+-buscar como incustrar el link en un archivo .txt
+-poner el link de cada integrante en el modulo 1 del grupo 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+| **25 de Marzo** CLASE 4|
+| :--- |
+**PASOS PARA ENTREGAR EL INFORME DEL MODULO 1**
+
+>-USAR EN OVERLEAF PLANTILLA SLNC
+>-INSTITUCION 1 PARA TODOS(UNCUYO)
+>-\orcidID DEJAR SOLO LOS CORCHETES PARA TODOS LOS AUTORES
+>-EL PRIMER AUTOR QUE SEA EL DUEÑO DEL GITHUN
+
+
+
+
+ver los archivos que sube el grupo:"budin de banana"
+INSITUTO DE INGENIERIA INUDSTRIAL 5502
+
+usar ia para hacer un resumen basado en los temas vistos (abtract)
+
+htlm 
+markdown 
+latex
+google colab
+git hub
+cheat sheet
+palabras claves: uncuyo,tyhm,markup language
+
+seccion 2
+
+ejemplo de codigo htlm
+pegar un codigo htlm en una parte del overleaf  con distintas partes del de por ejemplo como agregar una tabla en overlef
+
+\begin{lstlisting}
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Mi Título</h1>
+  <p>Hola mundo en HTML.</p>
+</body>
 
 
 
