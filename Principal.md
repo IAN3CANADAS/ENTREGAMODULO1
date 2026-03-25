@@ -64,8 +64,9 @@ APLICAR IMAGEN
 ➡️  **PARTE 2**
 
 -CV
+-Curriculum Mateo Isgro
 <p align="center">
-  <img width="400" height="500" alt="image" src="Screenshot_20260325_180507_Samsung Notes.jpg" />
+  <img width="400" height="500" alt="image" src="CurriculumMateo.jpg" />
 </p>
 
 -USAR PLATILLA Simple Hipster CV
