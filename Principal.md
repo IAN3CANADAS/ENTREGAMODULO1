@@ -63,8 +63,9 @@ APLICAR IMAGEN
 
 ➡️  **PARTE 2**
 
--CV
--Curriculum Mateo Isgro
+-Curriculum de cada integrante.
+
+-Curriculum Mateo Isgro:
 <p align="center">
   <img width="400" height="500" alt="image" src="CurriculumMateo.jpg" />
 </p>
