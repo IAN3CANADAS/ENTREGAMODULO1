@@ -65,7 +65,7 @@ APLICAR IMAGEN
 
 -CV
 <p align="center">
-  <img width="400" height="500" alt="image" src="[https://github.com/user-attachments/assets/1e255d21-d2c8-47a6-911a-2d7302ff92ba](https://github.com/IAN3CANADAS/ENTREGAMODULO1/blob/main/Screenshot_20260325_180507_Samsung%20Notes.jpg)" />
+  <img width="400" height="500" alt="image" src="Screenshot_20260325_180507_Samsung Notes.jpg" />
 </p>
 
 -USAR PLATILLA Simple Hipster CV
