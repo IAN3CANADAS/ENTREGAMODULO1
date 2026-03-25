@@ -65,10 +65,16 @@ APLICAR IMAGEN
 
 -Curriculum de cada integrante.
 
--Curriculum Mateo Isgro:
+1) Curriculum Mateo Isgro:
 <p align="center">
   <img width="400" height="500" alt="image" src="CurriculumMateo.jpg" />
 </p>
+2) Curriculum Ian Cañadas:
+3) Curriculum Bautista Zanetti:
+4)
+5)
+6)
+
 
 -USAR PLATILLA Simple Hipster CV
 
