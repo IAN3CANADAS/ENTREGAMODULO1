@@ -143,7 +143,7 @@ pegar un codigo htlm en una parte del overleaf  con distintas partes del de por 
 </body>
 
 REFERENCIAS BIBLIOGRAFICAS
-bibliografia.bib
+CREAR ARCHIVO bibliografia.bib
 GOGOEL ACADEMICO
 BUSCAR UN LIBRO
 CITAR
