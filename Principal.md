@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1e255d21-d2c8-47a6-911a-2d7302ff92ba" />
+  <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/1e255d21-d2c8-47a6-911a-2d7302ff92ba" />
 </p>
 
 - Mateo Isgro <https://github.com/MATEO9ISGRO/Modulo1> 2615522919
@@ -57,8 +57,11 @@ SIMBOLOGIA MATEMATICA:MENOR IGUAL,MAYOR O IGUAL,AL CUBO,APROXIMADAMENTRE IGUAL,L
 
 APLICAR IMAGEN 
 
+> [!NOTE]
+> Archivo subido como .zip para abrir con LATEX y tambien en formato .pdf
 
-**PARTE 2**
+
+➡️  **PARTE 2**
 
 -CV
 
@@ -68,6 +71,7 @@ APLICAR IMAGEN
 
 | **25 de Marzo** CLASE 4|
 | :--- |
+
 
 
 
