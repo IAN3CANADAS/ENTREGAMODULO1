@@ -156,4 +156,8 @@ BIBTEX Y COPIAR
 <img width="557" height="483" alt="image" src="https://github.com/user-attachments/assets/91a5cb37-cd93-4032-bfaf-6fc2b55edefb" />
 
 AGREGAR 5 REFERENCIAS DE HTML,GITHUB,LATEX,COLLAB Y MARKDOWN
+--------------------
 
+
+uso de datasets o base de datos internos en R
+usando el comando data en al consola obtenemos distintos datos precargados en la base de datos de rR.Estos datos estan ordenados en tablas a las cuales s epueden acceder y elegir todas las columnas o algunas usando $ despues dle comando d einformacion especifico
