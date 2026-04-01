@@ -157,7 +157,16 @@ BIBTEX Y COPIAR
 
 AGREGAR 5 REFERENCIAS DE HTML,GITHUB,LATEX,COLLAB Y MARKDOWN
 --------------------
+| **1 DE abril** CLASE 5 |
+| :--- |
 
+ir a la pagina posit cloud 
+file
+new file 
+rmarkdown 
+instalar la biblioteca rmarkdown 
 
 uso de datasets o base de datos internos en R
 usando el comando data en al consola obtenemos distintos datos precargados en la base de datos de rR.Estos datos estan ordenados en tablas a las cuales s epueden acceder y elegir todas las columnas o algunas usando $ despues dle comando d einformacion especifico
+
+agragar un grafico de gas presure y poner titulo y nombre  a lo ejes 
