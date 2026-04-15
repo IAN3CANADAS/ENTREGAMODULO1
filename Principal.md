@@ -167,9 +167,9 @@ rmarkdown
 instalar la biblioteca rmarkdown 
 
 uso de datasets o base de datos internos en R
-usando el comando data en al consola obtenemos distintos datos precargados en la base de datos de rR.Estos datos estan ordenados en tablas a las cuales s epueden acceder y elegir todas las columnas o algunas usando $ despues dle comando d einformacion especifico
+usando el comando data en al consola obtenemos distintos datos precargados en la base de datos de rR.Estos datos estan ordenados en tablas a las cuales se pueden acceder y elegir todas las columnas o algunas usando $ despues del comando de informacion especifico
 
-agragar un grafico de gas presure y poner titulo y nombre  a lo ejes 
+agregar un grafico de gas presure y poner titulo y nombre  a lo ejes 
 
 agregar diccionario en españoll 
 --------------------
