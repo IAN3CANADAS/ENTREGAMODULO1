@@ -172,3 +172,7 @@ usando el comando data en al consola obtenemos distintos datos precargados en la
 agragar un grafico de gas presure y poner titulo y nombre  a lo ejes 
 
 agregar diccionario en españoll 
+--------------------
+| **8 DE abril** CLASE 6 |
+| :--- |
+
