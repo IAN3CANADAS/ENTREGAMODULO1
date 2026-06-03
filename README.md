@@ -6,7 +6,7 @@ LINK:https://github.com/IAN3CANADAS/ENTREGAMODULO1
 | :--- | :--- | :--- | :--- |
 | Nicolás | La Rocca | nico.larocca2026@gmail.com | https://github.com/nicotox3/MODULO_1 |
 | Ian | Cañadas | iandcanadas@gmail.com | AGREGAR  LINK A MODULO 1 INDIVIDUAL |
-| Joaquin | Bresci | joaquibresci@gmail.com | AGREGAR  LINK A MODULO 1 INDIVIDUAL |
+| Joaquin | Bresci | joaquibresci@gmail.com | https://github.com/joacobre-jpg/MODULO1 |
 | Bautista | Zanetti | zanettibauti@gmail.com | AGREGAR  LINK A MODULO 1 INDIVIDUAL |
 | Luca | Salvo | lucasalvo@gmail.com | AGREGAR  LINK A MODULO 1 INDIVIDUAL |
 | Mateo | Isgro | mateoisgro@gmail.com | AGREGAR  LINK A MODULO 1 INDIVIDUAL |
