@@ -37,7 +37,7 @@ https://github.com/IAN3CANADAS/MODULO-3
 | Joaquin | Bresci | joaquibresci@gmail.com | AGREGAR  LINK A MODULO 3 INDIVIDUAL |
 | Bautista | Zanetti | zanettibauti@gmail.com | AGREGAR  LINK A MODULO 3 INDIVIDUAL |
 | Luca | Salvo | lucasalvo@gmail.com | AGREGAR  LINK A MODULO 3 INDIVIDUAL |
-| Mateo | Isgro | mateoisgro@gmail.com | AGREGAR  LINK A MODULO 3 INDIVIDUAL |
+| Mateo | Isgro | mateoisgro@gmail.com | https://github.com/MATEO9ISGRO/Modulo-3 |
 ----------------------------
 # ENTREGA MÓDULO 4
 **Grupo Pipu's**-
