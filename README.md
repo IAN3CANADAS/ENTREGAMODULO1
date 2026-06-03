@@ -49,5 +49,5 @@ https://github.com/nicotox3/MODULO-4
 | Ian | Cañadas | iandcanadas@gmail.com | https://github.com/IAN3CANADAS/MODULO4 |
 | Joaquin | Bresci | joaquibresci@gmail.com | AGREGAR  LINK A MODULO 4 INDIVIDUAL |
 | Bautista | Zanetti | zanettibauti@gmail.com | https://github.com/zanettibauti-hub/ENTREGAMODULO4BAUTISTAZANETTI |
-| Luca | Salvo | lucasalvo@gmail.com | AGREGAR  LINK A MODULO 4 INDIVIDUAL |
+| Luca | Salvo | lucasalvo@gmail.com | https://github.com/lucaferrosalvo-star/MODULO4 |
 | Mateo | Isgro | mateoisgro@gmail.com | https://github.com/MATEO9ISGRO/Modulo-4|
