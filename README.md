@@ -41,7 +41,7 @@ https://github.com/IAN3CANADAS/MODULO-3
 ----------------------------
 # ENTREGA MÓDULO 4
 **Grupo Pipu's**-
- https://github.com/IAN3CANADAS/ENTREGAMODULO4
+https://github.com/nicotox3/MODULO-4
 
  | Nombre | Apellido | Correo | Github |
 | :--- | :--- | :--- | :--- |
