@@ -45,7 +45,7 @@ https://github.com/nicotox3/MODULO-4
 
  | Nombre | Apellido | Correo | Github |
 | :--- | :--- | :--- | :--- |
-| Nicolás | La Rocca | nico.larocca2026@gmail.com | AGREGAR  LINK A MODULO 4 INDIVIDUAL |
+| Nicolás | La Rocca | nico.larocca2026@gmail.com |(https://github.com/nicotox3/MODULO-4) |
 | Ian | Cañadas | iandcanadas@gmail.com | AGREGAR  LINK A MODULO 4 INDIVIDUAL |
 | Joaquin | Bresci | joaquibresci@gmail.com | AGREGAR  LINK A MODULO 4 INDIVIDUAL |
 | Bautista | Zanetti | zanettibauti@gmail.com | AGREGAR  LINK A MODULO 4 INDIVIDUAL |
