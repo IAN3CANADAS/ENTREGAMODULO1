@@ -23,7 +23,7 @@ LINK:https://github.com/IAN3CANADAS/MODULO_2
 | Joaquin | Bresci | joaquibresci@gmail.com | https://github.com/joacobre-jpg/MODULO-2 |
 | Bautista | Zanetti | zanettibauti@gmail.com | AGREGAR  LINK A MODULO 2 INDIVIDUAL |
 | Luca | Salvo | lucasalvo@gmail.com | AGREGAR  LINK A MODULO 2 INDIVIDUAL |
-| Mateo | Isgro | mateoisgro@gmail.com | AGREGAR  LINK A MODULO 2 INDIVIDUAL |
+| Mateo | Isgro | mateoisgro@gmail.com |https://github.com/MATEO9ISGRO/Modulo-2 |
 
 -----------------------------
 # ENTREGA MÓDULO 3
