@@ -11,13 +11,20 @@ LINK:https://github.com/IAN3CANADAS/ENTREGAMODULO1
 | Luca | Salvo | lucasalvo@gmail.com | <https://github.com//lucaferrosalvo-star/_-modulo_1> |
 | Mateo | Isgro | mateoisgro@gmail.com | <https://github.com/MATEO9ISGRO/_-modulo_1> |
 
-
-
-
 -----------------------------
 # ENTREGA MÓDULO 2
 **Grupo Pipu's**
 LINK:https://github.com/IAN3CANADAS/MODULO_2
+
+| Nombre | Apellido | Correo | Github |
+| :--- | :--- | :--- | :--- |
+| Nicolás | La Rocca | nico.larocca2026@gmail.com | <https://github.com/nicotox3/nico_larocca> |
+| Ian | Cañadas | iandcanadas@gmail.com | AGREGAR  LINK A MODULO 2 INDIVIDUAL |
+| Joaquin | Bresci | joaquibresci@gmail.com | AGREGAR  LINK A MODULO 2 INDIVIDUAL |
+| Bautista | Zanetti | zanettibauti@gmail.com | AGREGAR  LINK A MODULO 2 INDIVIDUAL |
+| Luca | Salvo | lucasalvo@gmail.com | AGREGAR  LINK A MODULO 2 INDIVIDUAL |
+| Mateo | Isgro | mateoisgro@gmail.com | AGREGAR  LINK A MODULO 2 INDIVIDUAL |
+
 -----------------------------
 # ENTREGA MÓDULO 3
 **Grupo Pipu's**-
