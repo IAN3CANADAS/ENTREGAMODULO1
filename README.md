@@ -8,7 +8,7 @@ LINK:https://github.com/IAN3CANADAS/ENTREGAMODULO1
 | Ian | Cañadas | iandcanadas@gmail.com | https://github.com/IAN3CANADAS/MODULO1 |
 | Joaquin | Bresci | joaquibresci@gmail.com | https://github.com/joacobre-jpg/MODULO1 |
 | Bautista | Zanetti | zanettibauti@gmail.com | AGREGAR  LINK A MODULO 1 INDIVIDUAL |
-| Luca | Salvo | lucasalvo@gmail.com | AGREGAR  LINK A MODULO 1 INDIVIDUAL |
+| Luca | Salvo | lucasalvo@gmail.com | github.com/lucaferrosalvo-star/MODULO1 |
 | Mateo | Isgro | mateoisgro@gmail.com | https://github.com/MATEO9ISGRO/Modulo1 |
 
 -----------------------------
