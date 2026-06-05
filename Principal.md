@@ -2,7 +2,7 @@
 | :--- |
  
 
-# ENTREGA MÓDULO 1
+# MÓDULO 1
 **Grupo Pipu's**
 
 
