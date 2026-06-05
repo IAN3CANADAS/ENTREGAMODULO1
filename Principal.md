@@ -5,7 +5,9 @@
 
 ---
 <p align="center"><strong>NOTAS Y APUNTES DE CADA CLASE</strong></p>
----                                      
+
+-----------------------------------------------
+                                      
  
 | **11 DE MARZO** CLASE 2 |
 | :--- |
