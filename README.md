@@ -35,7 +35,7 @@ https://github.com/IAN3CANADAS/MODULO-3
 | Nicolás | La Rocca | nico.larocca2026@gmail.com | https://github.com/nicotox3/MODULO3 |
 | Ian | Cañadas | iandcanadas@gmail.com | https://github.com/IAN3CANADAS/MODULO-3 |
 | Joaquin | Bresci | joaquibresci@gmail.com | https://github.com/joacobre-jpg/M-DULO-3 |
-| Bautista | Zanetti | zanettibauti@gmail.com | AGREGAR  LINK A MODULO 3 INDIVIDUAL |
+| Bautista | Zanetti | zanettibauti@gmail.com | https://github.com/zanettibauti-hub/MODULO-3BAUTISTAZANETTI |
 | Luca | Salvo | lucasalvo@gmail.com | https://github.com/lucaferrosalvo-star/MODULO3 |
 | Mateo | Isgro | mateoisgro@gmail.com | https://github.com/MATEO9ISGRO/Modulo-3 |
 ----------------------------
