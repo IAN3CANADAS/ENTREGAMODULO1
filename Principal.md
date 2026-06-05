@@ -1,11 +1,12 @@
-LAS ENTREGAS DE LOS MÓDULOS ESTÁN EN ESTE LINK: |https://github.com/IAN3CANADAS/ENTREGAMODULO1|
 
+|**LAS ENTREGAS DE LOS MÓDULOS ESTÁN EN ESTE LINK: |https://github.com/IAN3CANADAS/ENTREGAMODULO1|** |
+| :--- |
 
 
 
 
 --------------------------------------------------------------------
-                   NOTAS Y APUNTES DE CADA CLASE 
+                            NOTAS Y APUNTES DE CADA CLASE 
 --------------------------------------------------------------------
 | **11 DE MARZO** CLASE 2 |
 | :--- |
